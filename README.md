@@ -7,6 +7,7 @@ All papers listed have been read and approved as useful.
 
 | Paper Title | Description | Date | arXiv Link |
 | --- | --------------------------------------- | --- | --- |
+| **Stealing Reasoning Traces from Proprietary LLM APIs** | How a team managed to steal reasoning from model providers, using the stateless not-so-secure encrypted CoT and feeding them to lower level models (e.g. Haiku) of same provider | 2026-08 | [https://www.alphaxiv.org/pdf/2608.09867v1](https://www.alphaxiv.org/pdf/2608.09867v1)
 | **Microservice Architecture Patterns for Scalable Machine Learning Systems** | A practical paper on designing scalable, production-ready ML systems using microservices. Addresses deployment, orchestration, and operational challenges for real-world AI stacks. | 2026-03 | [https://arxiv.org/abs/2603.13672](https://arxiv.org/abs/2603.13672) |
 | **DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models** | A major technical report on a state-of-the-art open-source Mixture-of-Experts (MoE) model that advances the frontier of accessible LLMs with competitive performance. | 2025-12 | [https://arxiv.org/abs/2512.02556](https://arxiv.org/abs/2512.02556) |
 | **Less is More: Recursive Reasoning with Tiny Networks (TRM)** | Samsung's 7M-parameter recursive reasoning model that outperforms Gemini 2.5 Pro, o3-mini, and DeepSeek R1 on ARC-AGI and logic puzzles through iterative self-refinement loops. | 2025-10 | [https://arxiv.org/abs/2510.04871](https://arxiv.org/abs/2510.04871) |
